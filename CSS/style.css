@@ -1,16 +1,18 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url("../content/Red\ Sunset.jpg");
+    background-image: url("../content/Pure\ Lust.jpg");
+    color: rgb(255, 255, 255);
 }
 
 .h-1 {
     text-align: center;
-    background: linear-gradient(to right, rgb(85, 212, 255), rgb(54, 54, 255));
+    /* background: linear-gradient(to right, rgb(144, 0, 255),rgb(78, 0, 130)); */
     height: 2.8rem;
     border-radius: 2rem;
     font-family: 'Donut Shop', sans-serif;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-shadow: black 4px 4px 4px 4px;
     font-size: 1.8rem;
     font-weight: 100;
 }
@@ -21,6 +23,10 @@ body {
 
 .p-0 {
     text-align: center;
+}
+
+.h-0 {
+    border: black solid .001rem;
 }
 
 .label {
@@ -67,10 +73,11 @@ body {
     font-family: 'Chucaratext', sans-serif;
     padding: 1rem;
     margin: 20px auto;
+    box-shadow: black 12px 10px 12px 6px;
     width: 22rem;
     height: 22rem;
     border-radius: 2rem;
-    background: linear-gradient(to right, rgb(100, 214, 255),rgb(102, 102, 255));
+    background: linear-gradient(to right, rgb(255, 0, 0),rgb(44, 44, 44));
 }
 
 
