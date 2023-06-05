@@ -53,6 +53,8 @@ body {
     border-radius: 2rem;
     width: 10rem;
     height: 2rem;
+    color: black;
+    font-weight: 600;
 }
 
 .butt {
@@ -78,7 +80,7 @@ body {
     width: 22rem;
     height: 22rem;
     border-radius: 2rem;
-    background: linear-gradient(to right, rgb(255, 0, 0),rgb(44, 44, 44));
+    background: linear-gradient(to right, rgb(255, 0, 0),rgb(23, 23, 23));
 }
 
 
