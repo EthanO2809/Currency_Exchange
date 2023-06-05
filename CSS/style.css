@@ -7,10 +7,11 @@ body {
 .h-1 {
     text-align: center;
     background: linear-gradient(to right, rgb(85, 212, 255), rgb(54, 54, 255));
-    height: 4rem;
+    height: 2.8rem;
     border-radius: 2rem;
     font-family: 'Donut Shop', sans-serif;
     color: rgb(0, 0, 0);
+    font-size: 1.8rem;
 }
 
 .label {
